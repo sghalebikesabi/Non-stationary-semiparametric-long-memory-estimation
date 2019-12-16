@@ -1,0 +1,3 @@
+# Non-stationary Semiparametric Long Memory Estimation
+
+Long Memory processes are found in many major economic applications. They are characeterised by a not summable autocorrelation function. To estimate the corresponding long memory parameter, semiparametric estimators make use of a local approximation of the spectral density. This paper reviews common approaches to estimate the long memory parameter based on this approximation in the non-stationary case. Among others we present the log periodogram estimator, the local whittle estimator and their trimmed and pooled extensions. We especially focus on tapering and the exact local whittle estimator. In a simulation study, we prove the superiority of the latter estimator. 
